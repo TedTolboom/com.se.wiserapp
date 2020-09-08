@@ -1,6 +1,6 @@
 {
-  "id": "com.se",
-  "version": "0.1.2",
+  "id": "com.se.wiserapp",
+  "version": "0.1.3",
   "compatibility": ">=3.2.0",
   "sdk": 2,
   "brandColor": "#3DCD58",
